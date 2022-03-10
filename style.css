@@ -1,0 +1,19 @@
+/** @format */
+
+.defs {
+  display: none;
+}
+.icon {
+  width: 22px;
+}
+
+.accent {
+  fill: rgb(5, 80, 202);
+  transition: width 2s;
+}
+
+.accent:hover {
+  fill: rgb(5, 80, 202);
+  width: 30px;
+  transition: width 2s;
+}
